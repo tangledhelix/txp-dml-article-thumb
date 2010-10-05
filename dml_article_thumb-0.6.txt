@@ -1,0 +1,42 @@
+# dml_article_thumb v0.6
+# Returns a thumbnail for the article image
+# Dan Lowe
+# http://tangledhelix.com/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+YTo5OntzOjc6InZlcnNpb24iO3M6MzoiMC42IjtzOjY6ImF1dGhvciI7czo4OiJEYW4gTG93
+ZSI7czoxMDoiYXV0aG9yX3VyaSI7czoyNDoiaHR0cDovL3RhbmdsZWRoZWxpeC5jb20vIjtz
+OjExOiJkZXNjcmlwdGlvbiI7czo0MToiUmV0dXJucyBhIHRodW1ibmFpbCBmb3IgdGhlIGFy
+dGljbGUgaW1hZ2UiO3M6NDoidHlwZSI7aTowO3M6NDoibmFtZSI7czoxNzoiZG1sX2FydGlj
+bGVfdGh1bWIiO3M6NDoiaGVscCI7czozODY6Igo8cD48c3Ryb25nPnR4cDpkbWxfYXJ0aWNs
+ZV90aHVtYjwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgcGx1Z2luIHByb3ZpZGVzIGEgZnVuY3Rp
+b24gc2ltaWxhciB0bwo8Y29kZT4mbHQ7dHhwOmFydGljbGVfaW1hZ2UmbmJzcDsvJmd0Ozwv
+Y29kZT4KZXhjZXB0IGl0IHJldHVybnMgYSB0aHVtYm5haWwuIEkgdXNlIGl0IGluIGV4Y2Vy
+cHRzIGZvciBSU1MsIGJ1dAppdCBzaG91bGQgd29yayBhbnl3aGVyZS4gTWFrZSBzdXJlIHlv
+dXIgYXJ0aWNsZSBoYXMgYW4gYXJ0aWNsZSBpbWFnZQpJRCAoc2VlIHRoZSBBZHZhbmNlZCBh
+cmVhIGluIHRoZSB3cml0ZSB0YWIpLCB0aGVuIHVzZTo8L3A+Cgo8cD48Y29kZT4mbHQ7dHhw
+OmRtbF9hcnRpY2xlX3RodW1iIC8mZ3Q7PC9jb2RlPjwvcD4KIjtzOjQ6ImNvZGUiO3M6OTY2
+OiIKLy8ge3t7IGRtbF9hcnRpY2xlX3RodW1iKCkKCmZ1bmN0aW9uIGRtbF9hcnRpY2xlX3Ro
+dW1iKCRhdHRzKQp7CiAgICBnbG9iYWwgJHRoaXNhcnRpY2xlLCAkaW1nX2RpcjsKCiAgICBl
+eHRyYWN0KGxBdHRzKGFycmF5KAogICAgICAgICdzdHlsZScgPT4gJycsCiAgICAgICAgJ2Fs
+aWduJyA9PiAnJwogICAgKSwkYXR0cykpOwoKICAgICR0aGVpbWFnZSA9ICgkdGhpc2FydGlj
+bGVbJ2FydGljbGVfaW1hZ2UnXSkKICAgICAgICAgICAgICAgICAgICAgICAgPyAkdGhpc2Fy
+dGljbGVbJ2FydGljbGVfaW1hZ2UnXQogICAgICAgICAgICAgICAgICAgICAgICA6ICcnOwoK
+ICAgIGlmICgkdGhlaW1hZ2UpCiAgICB7CiAgICAgICAgaWYgKGlzX251bWVyaWMoJHRoZWlt
+YWdlKSkKICAgICAgICB7CiAgICAgICAgICAgICRycyA9IHNhZmVfcm93KCcqJywgJ3R4cF9p
+bWFnZScsICJpZD0nJHRoZWltYWdlJyIpOwogICAgICAgICAgICBpZiAoJHJzKQogICAgICAg
+ICAgICB7CiAgICAgICAgICAgICAgICBleHRyYWN0KCRycyk7CiAgICAgICAgICAgICAgICAk
+b3V0ID0gJzxpbWcgc3JjPSInLiBodSAuICIkaW1nX2Rpci8ke2lkfXQkZXh0XCIiOwoKICAg
+ICAgICAgICAgICAgIGlmICghZW1wdHkoJGFsdCkpICAgJG91dCAuPSAnIGFsdD0iJyAgIC4g
+JGFsdCAgIC4gJyInOwogICAgICAgICAgICAgICAgaWYgKCFlbXB0eSgkc3R5bGUpKSAkb3V0
+IC49ICcgc3R5bGU9IicgLiAkc3R5bGUgLiAnIic7CiAgICAgICAgICAgICAgICBpZiAoIWVt
+cHR5KCRhbGlnbikpICRvdXQgLj0gJyBhbGlnbj0iJyAuICRhbGlnbiAuICciJzsKCiAgICAg
+ICAgICAgICAgICAkb3V0IC49ICcgLz4nOwoKICAgICAgICAgICAgICAgIHJldHVybiAkb3V0
+OwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGVsc2UgcmV0dXJuICc8aW1nIHNy
+Yz0iJyAuICR0aGVpbWFnZSAuICciIGFsdD0iIiAvPic7CiAgICB9Cn0KCi8vIH19fQoiO3M6
+MzoibWQ1IjtzOjMyOiJiMmFiMGIwMDQxYTVjMTk2M2EwNWExNjEwNzJmNmUwZSI7fQ==

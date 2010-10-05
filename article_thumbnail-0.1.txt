@@ -1,0 +1,37 @@
+# article_thumbnail v0.1
+# Returns a thumbnail for the article image
+# Dan Lowe
+# http://tangledhelix.com/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+YTo5OntzOjc6InZlcnNpb24iO3M6MzoiMC4xIjtzOjY6ImF1dGhvciI7czo4OiJEYW4gTG93
+ZSI7czoxMDoiYXV0aG9yX3VyaSI7czoyNDoiaHR0cDovL3RhbmdsZWRoZWxpeC5jb20vIjtz
+OjExOiJkZXNjcmlwdGlvbiI7czo0MToiUmV0dXJucyBhIHRodW1ibmFpbCBmb3IgdGhlIGFy
+dGljbGUgaW1hZ2UiO3M6NDoidHlwZSI7aTowO3M6NDoibmFtZSI7czoxNzoiYXJ0aWNsZV90
+aHVtYm5haWwiO3M6NDoiaGVscCI7czozODoiCmgxLiBUZXh0aWxlLWZvcm1hdHRlZCBoZWxw
+IGdvZXMgaGVyZQoiO3M6NDoiY29kZSI7czoxMDI0OiIKCWZ1bmN0aW9uIGFydGljbGVfdGh1
+bWJuYWlsKCRhdHRzKQoJewogICAgICAgIGdsb2JhbCAkdGhpc2FydGljbGUsJGltZ19kaXI7
+CiAgICAgICAgZXh0cmFjdChsQXR0cyhhcnJheSgKICAgICAgICAgICAgJ3N0eWxlJyA9PiAn
+JywKICAgICAgICAgICAgJ2FsaWduJyA9PiAnJwogICAgICAgICksJGF0dHMpKTsKCiAgICAg
+ICAgJHRoZWltYWdlID0gKCR0aGlzYXJ0aWNsZVsnYXJ0aWNsZV9pbWFnZSddKSA/ICR0aGlz
+YXJ0aWNsZVsnYXJ0aWNsZV9pbWFnZSddIDogJyc7CgogICAgICAgIGlmICgkdGhlaW1hZ2Up
+IHsKCiAgICAgICAgICAgIGlmIChpc19udW1lcmljKCR0aGVpbWFnZSkpIHsKICAgICAgICAg
+ICAgICAgICRycyA9IHNhZmVfcm93KCIqIiwndHhwX2ltYWdlJywiaWQ9JyR0aGVpbWFnZSci
+KTsKICAgICAgICAgICAgICAgIGlmICgkcnMpIHsKICAgICAgICAgICAgICAgICAgICBleHRy
+YWN0KCRycyk7CiAgICAgICAgICAgICAgICAgICAgJG91dCA9IGFycmF5KAogICAgICAgICAg
+ICAgICAgICAgICAgICAnPGltZycsCiAgICAgICAgICAgICAgICAgICAgICAgICdzcmM9Iicu
+aHUuJGltZ19kaXIuJy8nLiRpZC4ndCcuJGV4dC4nIicsCiAgICAgICAgICAgICAgICAgICAg
+ICAgICghZW1wdHkoJGFsdCkpID8gJ2FsdD0iJy4kYWx0LiciJyA6ICcnLAogICAgICAgICAg
+ICAgICAgICAgICAgICAoIWVtcHR5KCRzdHlsZSkpID8gJ3N0eWxlPSInLiRzdHlsZS4nIicg
+OiAnJywKICAgICAgICAgICAgICAgICAgICAgICAgKCFlbXB0eSgkYWxpZ24pKSA/ICdhbGln
+bj0iJy4kYWxpZ24uJyInIDogJycsCiAgICAgICAgICAgICAgICAgICAgICAgICcgLz4nCiAg
+ICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gam9pbign
+ICcsJG91dCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAg
+ICAgICAgICAgICByZXR1cm4gJzxpbWcgc3JjPSInLiR0aGVpbWFnZS4nIiBhbHQ9IiIgLz4n
+OwogICAgICAgICAgICB9CiAgICAgICAgfQoKCX0KIjtzOjM6Im1kNSI7czozMjoiOTg3MTI0
+NTljMTdkOTBjZWVlMzQyM2M0M2U4ZGZmNGEiO30=
