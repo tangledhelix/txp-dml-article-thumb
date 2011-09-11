@@ -47,44 +47,44 @@ ID (see the Advanced area in the write tab), then use:</p>
 // {{{ dml_article_thumb()
 
 function dml_article_thumb($atts) {
-    global $thisarticle, $img_dir;
+	global $thisarticle, $img_dir;
 
-    extract(lAtts(array(
-        'style' => '',
-        'align' => ''
-    ) ,$atts));
+	extract(lAtts(array(
+		'style' => '',
+		'align' => ''
+	) ,$atts));
 
-    $theimage = '';
-    if ($thisarticle['article_image']) {
-        $theimage = $thisarticle['article_image'];
-    }
+	$theimage = '';
+	if ($thisarticle['article_image']) {
+		$theimage = $thisarticle['article_image'];
+	}
 
-    if ($theimage) {
-        if (is_numeric($theimage)) {
-            $rs = safe_row('*', 'txp_image', "id='$theimage'");
-            if ($rs) {
-                extract($rs);
-                $out = '<img src="'. hu . "$img_dir/${id}t$ext\"";
+	if ($theimage) {
+		if (is_numeric($theimage)) {
+			$rs = safe_row('*', 'txp_image', "id='$theimage'");
+			if ($rs) {
+				extract($rs);
+				$out = '<img src="'. hu . "$img_dir/${id}t$ext\"";
 
-                if (! empty($alt)) {
-                    $out .= " alt=\"$alt\"";
-                }
-                if (! empty($style)) {
-                    $out .= " style=\"$style\"";
-                }
-                if (! empty($align)) {
-                    $out .= " align=\"$align\"";
-                }
+				if (! empty($alt)) {
+					$out .= " alt=\"$alt\"";
+				}
+				if (! empty($style)) {
+					$out .= " style=\"$style\"";
+				}
+				if (! empty($align)) {
+					$out .= " align=\"$align\"";
+				}
 
-                $out .= ' />';
+				$out .= ' />';
 
-                return $out;
-            }
+				return $out;
+			}
 
-        } else {
-            return "<img src=\"$theimage\" alt=\"\" />";
-        }
-    }
+		} else {
+			return "<img src=\"$theimage\" alt=\"\" />";
+		}
+	}
 }
 
 // }}}
